@@ -1,0 +1,7 @@
+PyQt5
+PyQt5-svg
+ping3
+psutil
+pyperclip
+geoip2
+cairosvg
